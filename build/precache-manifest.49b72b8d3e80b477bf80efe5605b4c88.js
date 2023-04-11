@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ef3877110de2d4642b95b924c92c259",
+    "revision": "c94d2f6dfce59154bfa37836216d964a",
     "url": "./index.html"
   },
   {
-    "revision": "c2876ba4bbb609e0b634",
+    "revision": "8a962d0d97e0a86fe70e",
     "url": "./static/css/2.d4488d67.chunk.css"
   },
   {
-    "revision": "503111410e60cebbdab1",
-    "url": "./static/css/main.9fd0124d.chunk.css"
+    "revision": "d63ceedfb6fb4b22618b",
+    "url": "./static/css/main.88a249e0.chunk.css"
   },
   {
-    "revision": "c2876ba4bbb609e0b634",
-    "url": "./static/js/2.1e039605.chunk.js"
+    "revision": "8a962d0d97e0a86fe70e",
+    "url": "./static/js/2.a13b8dbb.chunk.js"
   },
   {
-    "revision": "503111410e60cebbdab1",
-    "url": "./static/js/main.707cfc44.chunk.js"
+    "revision": "d63ceedfb6fb4b22618b",
+    "url": "./static/js/main.278e3696.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -56,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Gilroy-SemiBold.05bdf30b.ttf"
   },
   {
+    "revision": "6385452a00f016bcd76e74c09fe641f8",
+    "url": "./static/media/Inter-Black.6385452a.ttf"
+  },
+  {
     "revision": "97decd2b78e0890e270894d96efe328f",
     "url": "./static/media/Inter-Bold.97decd2b.ttf"
+  },
+  {
+    "revision": "bf2cf3894573bf5c075d9a377abf32d5",
+    "url": "./static/media/Inter-ExtraBold.bf2cf389.ttf"
   },
   {
     "revision": "5ff1f2a9a78730d7d0c309320ff3c9c7",
@@ -200,7 +208,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "a6689cd4b511193c9294bd8c21a2881b",
-    "url": "./static/media/years.a6689cd4.svg"
+    "revision": "7763e98a5fdfc6f074577b23785e433d",
+    "url": "./static/media/bg.7763e98a.png"
+  },
+  {
+    "revision": "8182911ac01def7a72bd695151b466e9",
+    "url": "./static/media/empty_doc.8182911a.png"
+  },
+  {
+    "revision": "beb2409954abb250bb0ed57d63a1bd14",
+    "url": "./static/media/modal_access_icon.beb24099.svg"
+  },
+  {
+    "revision": "91b6ec7bd98f9172c303ecf0236e43d4",
+    "url": "./static/media/story.91b6ec7b.png"
   }
 ]);
